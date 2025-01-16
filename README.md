@@ -1,5 +1,10 @@
-# Warren Epperson
-![image description](images\IMG_0033.JPG)`images\IMG_0033.JPG`
+Warren Epperson
+<div>
+<img src='"./c:\Users\Rusty\OneDrive\Pictures\test picture\56176010084__472383BC-3B39-442E-ADB2-53D9BD758C96.JPG
+<div>
+
+
+## Instructions
 
 ### 1. Use the green `Template` button above to create your own github repository. 
 
@@ -87,7 +92,3 @@ For example
 
 You can d0 this as many times as you wish, you'll just have to delete the repositories from your github when they start feeling like clutter. Allow for about 20-30 seconds to delete a repository from github, once you learn it.
 
-
-
-[def]: images\WarrenEpperson.JPG
-[def2]: images\WarrenEpperson.JPG
