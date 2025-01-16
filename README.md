@@ -1,7 +1,8 @@
 Warren Epperson
-![Image description] ![alt text](IMG_2123.png)
+<div>
+<img id="header-image" src="./IMG_2123.png>
 
-
+</div>
 ## Instructions
 
 ### 1. Use the green `Template` button above to create your own github repository. 
