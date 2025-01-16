@@ -1,7 +1,5 @@
 Warren Epperson
-<div>
-<img src='"./c:\Users\Rusty\OneDrive\Pictures\test picture\56176010084__472383BC-3B39-442E-ADB2-53D9BD758C96.JPG
-<div>
+![Image description] ![alt text](IMG_2123.png)
 
 
 ## Instructions
