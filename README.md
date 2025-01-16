@@ -1,9 +1,5 @@
-# Assignment 0 Instructions
-This is a template and instructions for creating your own Assignment0.
-
-_Please follow these instructions carefully, there are several ways to confuse yourself if you don't keep checking against these instructions as you go._
-
-## Instructions
+# Warren Epperson
+![image description](images\IMG_0033.JPG)`images\IMG_0033.JPG`
 
 ### 1. Use the green `Template` button above to create your own github repository. 
 
@@ -91,3 +87,7 @@ For example
 
 You can d0 this as many times as you wish, you'll just have to delete the repositories from your github when they start feeling like clutter. Allow for about 20-30 seconds to delete a repository from github, once you learn it.
 
+
+
+[def]: images\WarrenEpperson.JPG
+[def2]: images\WarrenEpperson.JPG
